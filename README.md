@@ -1,6 +1,4 @@
-Looking for a (tech) co-founder who is excited about building and 
-discovering great ideas and is willing to work three, six, or twelve months 
-for equity only.
+Looking for a (tech) co-founder who is excited about building and discovering great ideas and is willing to work three, six, or perhaps twelve months for equity only.
 
 The goal is to make software that will simplify use of AI models and 
 create real world value.
