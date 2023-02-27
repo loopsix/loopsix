@@ -1,16 +1,20 @@
-### Hi there 👋
+Looking for a (tech) co-founder who is excited about building and 
+discovering great ideas and is willing to work three, six, or twelve months 
+for equity only.
 
-<!--
-**loopsix/loopsix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The goal is to make software that will simplify use of AI models and 
+create real world value.
 
-Here are some ideas to get you started:
+**Startup field:** No-code and AI models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Team:** Lone tech founder.
+
+**Progress:** On-going proof of concept and whitepaper. Working towards an MVP.
+
+**Desired skills:** react, lisp / scheme / racket, distributed programming, etc.
+
+**Funding history:** No funds have been raised yet.
+
+**Your Location:** Remote, EU, USA, etc.
+
+**Contact:** <info@loopsix.xyz>
